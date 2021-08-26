@@ -1,0 +1,25 @@
+div{
+  text-align: center;
+
+}
+
+.patos{
+  background:red;
+  font-size: 3rem;
+  border:1px solid;
+  border-radius: 7px;
+  margin: 0 1rem 1rem;
+}
+
+.contadores{
+  float: left;
+  
+}
+
+#cenario{
+  float: left;
+  width: 80%;
+  height: 48rem;
+  background-image: url(img/cenario2.png);
+}
+
